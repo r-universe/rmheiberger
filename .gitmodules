@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HH"]
 	path = HH
 	url = https://github.com/cran/HH
-	shallow = true
-	registered = true
 [submodule "microplot"]
 	path = microplot
 	url = https://github.com/cran/microplot
-	shallow = true
-	registered = true
 [submodule "RcmdrPlugin.HH"]
 	path = RcmdrPlugin.HH
 	url = https://github.com/cran/RcmdrPlugin.HH
-	shallow = true
-	registered = true
