@@ -5,9 +5,9 @@
 [submodule "HH"]
 	path = HH
 	url = https://github.com/cran/HH
-[submodule "microplot"]
-	path = microplot
-	url = https://github.com/cran/microplot
 [submodule "RcmdrPlugin.HH"]
 	path = RcmdrPlugin.HH
 	url = https://github.com/cran/RcmdrPlugin.HH
+[submodule "microplot"]
+	path = microplot
+	url = https://github.com/cran/microplot
